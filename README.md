@@ -4,6 +4,8 @@ The portable version of [typora](https://typora.io/#windows), go to [Release](ht
 
 Please note, this is only for Windows platform.
 
+请前往[发布页面](https://github.com/tobyqin/Typora-Portable/releases)直接下载已打包的绿色版，想了解更多还是看英文吧。
+
 # Why need to be portable?
 
 Typora is my favorite markdown editor, but every time using a new PC I have to reinstall it time to time. What's more, installing Typora needs administrator privilege, I might not have that on new PC.

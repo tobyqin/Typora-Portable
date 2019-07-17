@@ -20,7 +20,7 @@ It is pretty simple to make a portable typora:
 3. Zip the installation folder
 4. Publish the package to release page.
 
-At least it works well for now.
+Does it work correctly? Yes, at least it works great per my test.
 
 # Any other plan?
 

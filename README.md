@@ -1,5 +1,7 @@
 # Typora-Portable
 
+> Typora has released 1.0+ version which requires license, this repo will be deprecated, the latest beta verson is 0.11.
+
 The portable version of [typora](https://typora.io/#windows), go to [Release](https://github.com/tobyqin/Typora-Portable/releases) page to download the zip package, then you are ready to go!
 
 Please note, this portable version is only for Windows platform.
